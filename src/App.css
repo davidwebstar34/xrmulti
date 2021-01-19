@@ -1,3 +1,7 @@
+#Dom3dSystem-root {
+  pointer-events: none;
+}
+
 .App {
   text-align: center;
 }

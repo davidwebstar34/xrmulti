@@ -1,3 +1,7 @@
+# Loosely based on 
+
+https://docs.sumerian.amazonaws.com/tutorials/create/intermediate/amplify-react-appsync/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
